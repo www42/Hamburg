@@ -58,6 +58,11 @@
 * (AZ-305) [Describe high availability and disaster recovery strategies](https://learn.microsoft.com/en-us/training/modules/describe-high-availability-disaster-recovery-strategies/)
 
 
+<br>
+
+<br>
+
+<br>
 
 ## Labs
 
@@ -91,6 +96,7 @@
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
 
+<br>
 
 ## Useful Links
 
