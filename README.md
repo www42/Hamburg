@@ -84,6 +84,20 @@
 
 <br>
 
+## New: Microsoft Applied Skills
+
+[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
+
+[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+<br>
+
+## Very New: Microsoft Learn for Github
+
+[Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
+
+<br>
+
 ## Microsoft Learn
 
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
