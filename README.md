@@ -2,7 +2,7 @@
 
 ## Seminar 23. - 26.02.2026
 
-(Get the Presentation)[pdf/]
+[Get the Presentation](pdf/)
 
 <br>
 
