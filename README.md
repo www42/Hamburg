@@ -1,5 +1,11 @@
 # Seminar Azure Design Hamburg
 
+## Seminar 23. - 26.02.2026
+
+(Get the Presentation)[pdf/]
+
+<br>
+
 ## Tag 1 Einführung
 ### Vormittag: Einführung Azure
 * (AZ-900) [Describe Cloud Computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/)
